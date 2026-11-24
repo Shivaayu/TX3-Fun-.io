@@ -1,0 +1,11 @@
+{
+  "name": "TX3 Fun \u2014 Tic Tac Toe",
+  "short_name": "TX3 Fun",
+  "description": "Tic Tac Toe, reimagined.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11111b",
+  "theme_color": "#11111b",
+  "icons": []
+}
